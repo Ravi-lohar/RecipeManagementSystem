@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1> Recipes Management System</h1>
+  <h1> Recipe Management System</h1>
  </div>
 
 ## Framework and Language
